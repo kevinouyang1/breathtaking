@@ -12,6 +12,11 @@ Activate Python virtual environment when developing using:
 
 source env/bin/activate
 
+## Frontend for Breathtaking
+
+# Setup
+
+cd into the frontend folder, run `npm install` and then `npm run dev` to start local development.
 
 # Functionality
 
